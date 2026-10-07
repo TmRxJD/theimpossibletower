@@ -1,0 +1,18 @@
+{
+  "source": "User-supplied The Tower extraction, reused from Towerium",
+  "assets": [
+    "enemies/enemy-fast-md.webp",
+    "enemies/enemy-basic-md.webp",
+    "enemies/enemy-tank-md.webp",
+    "enemies/enemy-ranged-md.webp",
+    "enemies/enemy-protector-md.webp",
+    "enemies/enemy-boss-md.webp",
+    "tower-skins/cyber-tower-lg.webp",
+    "ultimate-weapons/weapon-black-hole-md.webp",
+    "ultimate-weapons/weapon-chain-lightning-md.webp",
+    "ultimate-weapons/weapon-death-wave-md.webp",
+    "enemies/enemy-vampire-md.webp",
+    "enemies/enemy-scatter-md.webp",
+    "enemies/enemy-ray-md.webp"
+  ]
+}

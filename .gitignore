@@ -1,0 +1,15 @@
+node_modules/
+dist/
+engine/target/
+src/wasm/
+.venv/
+.cache/
+.local*/
+.local-guidance.txt
+test-results/
+playwright-report/
+__pycache__/
+*.log
+
+.pages-public/
+public/music/
