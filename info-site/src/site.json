@@ -1,0 +1,54 @@
+{
+  "slug": "the-impossible-tower",
+  "playUrl": "https://tmrxjd.github.io/theimpossibletower/",
+  "title": "The Impossible Tower",
+  "alias": "",
+  "accent": "#fa999c",
+  "genre": "Rhythm platformer",
+  "premise": "One more attempt",
+  "summary": "Hop across enemy platforms in time with the beat. Release and tap again at the peak to dash through gaps, gravity wells, and lightning-filled routes.",
+  "about": [
+    "Hop across enemy platforms in time with the beat. Release and tap again at the peak to dash through gaps, gravity wells, and lightning-filled routes.",
+    "An independent mini game inspired by The Tower. Play the browser version, or explore the rest of Tower Arcade for another kind of challenge."
+  ],
+  "features": [
+    {
+      "title": "Rhythm and movement",
+      "text": "Find a steady rhythm as you cross enemy platforms."
+    },
+    {
+      "title": "Hops and dashes",
+      "text": "Time your inputs to clear gaps along the route."
+    },
+    {
+      "title": "Hazardous routes",
+      "text": "Navigate gravity wells and lightning while keeping your momentum."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Start hopping",
+      "text": "Hold Space or the touch control to hop across platforms."
+    },
+    {
+      "title": "Time a dash",
+      "text": "Release and tap again at the peak to dash through a gap."
+    },
+    {
+      "title": "Learn the route",
+      "text": "Use each attempt to improve your timing through the hazards."
+    }
+  ],
+  "controls": [
+    {
+      "input": "Game input",
+      "action": "Hold to hop · Space or touch"
+    },
+    {
+      "input": "On-screen menus",
+      "action": "Use the game’s menus to start a run and see its available options."
+    }
+  ],
+  "availability": "Available to play in your browser on desktop and mobile. The Play button opens the game.",
+  "controlNote": "The game’s own controls and menus provide any additional bindings."
+}
